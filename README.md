@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-- 🏫 Bilkent University
-- 🔭 I’m currently working on CarbonHealth
+- 🏫 I’m studying at Bilkent University.
 - 💬 Interests: Deep learning, cloud systems, chess engine, competitive programming
+
+![Toby](https://steamuserimages-a.akamaihd.net/ugc/812182097356941347/5DD5E489FECE3EBBE99B102FC556C90DF9720032/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true)
 
 <!--
 **Dogacel/Dogacel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
