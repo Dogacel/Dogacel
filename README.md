@@ -1,6 +1,8 @@
 <p align="center">
   <img src="https://steamuserimages-a.akamaihd.net/ugc/812182097356941347/5DD5E489FECE3EBBE99B102FC556C90DF9720032/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dogacel&theme=dark&show_icons=true"/>
 </p>
+
 
 <!--
 **Dogacel/Dogacel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
